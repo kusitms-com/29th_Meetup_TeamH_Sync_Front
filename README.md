@@ -214,7 +214,7 @@
 <br><br>
 
 ## **📜 ERD 설계도**
-![erd]([https://github.com/kusitms-com/29th_Semi_README/assets/95680133/07776545-328a-465f-a496-d6de8917531a](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/49d81966-baae-4fef-9cb7-44c8298d188f))
+![erd](https://github.com/kusitms-com/29th_Semi_README/assets/95680133/11bd44a4-62d5-4c7b-9258-ad61bd86910e)
 <br><br>
 
 ## **💻 Technology**
